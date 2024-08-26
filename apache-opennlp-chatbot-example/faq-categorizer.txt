@@ -1,0 +1,37 @@
+error-message Sorry, what you have entered is not recognizable description. price. What is the price
+greeting hi hello hey hows it going good morning good evening good afternoon howdy
+conversation-continue ok wow great oh is it oh ohh Thats great Good Really hmm lemme think hm hmmm hmmmmm
+menu-list menu list items 
+pizza-description ingredients pizza describe pizza pizza prepared pizza 
+pizza-price pizza cost price pizza pricing pizzas prices sizes pizza pizza price 
+sushi-description types sushi included platter describe sushi sushi ingredients sushi platter sushi menu
+sushi-price sushi platter cost price sushi platter pricing sushi platters prices sizes options sushi platters sushi price.
+vegan-burger-description ingredients vegan burger describe vegan burger vegan burger vegan burger made vegan burger type
+vegan-burger-price vegan burger cost price vegan burger pricing vegan burgers charges toppings customizations vegan burger
+salad-description ingredients garden salad describe salad salad prepared
+salad-price garden salad cost price salad pricing salads charges protein toppings salad
+ice-cream-description flavors ice cream offer describe ice cream ice cream ice cream made
+ice-cream-price scoop ice cream cost price ice cream pricing ice cream charges toppings scoops ice cream
+coffee-description types coffee brew describe coffee coffee coffee sourced prepared
+coffee-price cup coffee cost price coffee pricing coffee charges specialty coffee drinks coffee price
+taco-description ingredients taco describe taco taco prepared taco fillings taco
+taco-price taco cost price taco pricing tacos prices sizes options tacos taco price
+cake-description types cake flavors offer describe cake cake ingredients cake menu
+cake-price cake cost price cake pricing cakes charges sizes options cakes cake price
+smoothie-description flavors smoothie offer describe smoothie smoothie ingredients smoothie menu
+smoothie-price smoothie cost price smoothie pricing smoothies charges sizes options smoothies smoothie price
+pasta-description ingredients pasta types pasta describe pasta pasta prepared pasta dishes
+pasta-price pasta cost price pasta pricing pastas charges sizes options pastas pasta price
+noodle-description ingredients noodle types noodle describe noodle noodle prepared noodle dishes
+noodle-price noodle cost price noodle pricing noodles charges sizes options noodles noodle price
+tea-description types tea brew describe tea tea tea sourced prepared
+tea-price cup tea cost price tea pricing tea charges specialty tea drinks tea price
+muffin-description flavors muffin offer describe muffin muffin muffin made
+muffin-price muffin cost price muffin pricing muffins charges sizes options muffins muffin price
+conversation-complete Thanks done thats done Thank information Thank thanks thank you thanks bye that was great
+emotional-response feeling excited feeling frustrated makes happy disappointed Excited
+thankful-response grateful help assistance appreciate support Thanks
+feedback feedback feedback
+complaint happy service product defective file complaint report issue
+suggestion suggestion suggest idea consider
+identity who are you guys? WHich restaurant is this where are you located? What is the location?
